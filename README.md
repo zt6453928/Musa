@@ -33,15 +33,15 @@
 ## 🖥️ 演示
 
 **统一搜索与动态布局**
- <img src="https://i.ibb.co/JRPzHLXk/2025-08-12-6-26-55.png" width="128" height="128" alt="2025-08-12-6-26-55">
+[![image.png](https://i.postimg.cc/MGRLDcNM/image.png)](https://postimg.cc/7CHXPLxw)
 *输入“起风了”，YouTube 和 B站同时呈现结果。*
 
 **AI 助手模式**
-![Musa AI 助手模式演示](https://via.placeholder.com/800x500.png?text=在此处替换为您的GIF或截图)
+[![image.png](https://i.postimg.cc/Mpz4DKxd/image.png)](https://postimg.cc/3dbnrhkv)
 *向多个 AI 同时提问，高效获取创意与答案。*
 
 **个性化定制**
-![Musa 主题切换与窗口弹出演示](https://via.placeholder.com/800x500.png?text=在此处替换为您的GIF或截图)
+[![2.png](https://i.postimg.cc/zBTS6KFW/2.png)](https://postimg.cc/MMKQjc4K)
 *流畅地切换主题，并将某个面板弹出为独立窗口。*
 
 ## 🚀 安装
