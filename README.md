@@ -53,4 +53,7 @@
 
 ## 最后
 
-若Musa应用为你带来了帮助，欢迎将它分享给更多有需要的人；你也可以通过微信扫码的方式进行打赏支持哦～ 
+若Musa应用为你带来了帮助，欢迎将它分享给更多有需要的人；你也可以通过微信扫码的方式进行打赏支持哦～
+若在使用过程中遇到问题，或想聊聊 Musa，可关注公众号「赛博小白」，发送 “musa” 即可进群参与讨论
+[![Wechat-IMG498.png](https://i.postimg.cc/5y0Twfz6/Wechat-IMG498.png)](https://postimg.cc/Hcq6mDBg)
+[![Wechat-IMG499.jpg](https://i.postimg.cc/d1TcdzGD/Wechat-IMG499.jpg)](https://postimg.cc/5Y1rWK7M)
