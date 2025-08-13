@@ -50,7 +50,7 @@
 
 ## 🚀 安装
 
-1.  前往 **Releases** 页面下载最新的 `.dmg` 文件。
+1.  前往 [**Releases**](https://github.com/zt6453928/Musa/releases) 页面下载最新的 `.dmg` 文件。
 2.  打开 `.dmg` 文件。
 3.  将 **Musa.app** 图标拖拽到“应用程序”文件夹替身上。
 4.  完成！您现在可以从“启动台”或“应用程序”文件夹中启动 Musa。
