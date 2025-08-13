@@ -1,8 +1,12 @@
+<p align="right">
+<a href="./README_zh-CN.md">简体中文</a>
+</p>
+
 <div align="center">
   <img src="https://i.ibb.co/CKjd37kr/musa.png" width="128" height="128" alt="Musa Logo">
   <h1>Musa</h1>
-  <p><strong>重塑您的搜索体验</strong></p>
-  <p>一个 macOS 应用，将多个搜索引擎与 AI 助手集成于统一的工作区，实现真正的并行搜索与提问。</p>
+  <p><strong>Reimagine Your Search Experience</strong></p>
+  <p>A macOS app that integrates multiple search engines and AI assistants into a unified workspace for true parallel search and querying.</p>
   
   <a href="#"><img src="https://img.shields.io/badge/macOS-14.0%2B-blue.svg" alt="macOS"></a>
   <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen.svg" alt="Version"></a>
@@ -11,49 +15,46 @@
 
 ---
 
-## 简介
+## Introduction
 
-在信息的洪流中，我们习惯于打开一个又一个标签页，为了同一个目标，在不同网站间重复输入、搜索、比对。这个过程不仅割裂了我们的思绪，更消耗了宝贵的时间。
+In the flood of information, we are used to opening one tab after another, repeatedly typing and searching across different websites for the same goal. This process not only fragments our thoughts but also consumes precious time.
 
-**Musa 的诞生，旨在终结这种低效的循环。**
+**Musa was born to end this inefficient cycle.**
 
-灵感来源于 [lencx/Noi](https://github.com/lencx/Noi)，Musa 将 Noi 的多 AI 聚合理念应用于更广阔的搜索领域。它不是一个浏览器，而是一个高度聚焦的**并行信息获取工具**。只需一次输入，即可将您的探索欲同时投射到 YouTube、B站、知乎、Bing 以及您自定义的任何网站和 AI 助手上，让信息以最高效、最直观的方式呈现在您眼前。
+Inspired by [lencx/Noi](https://github.com/lencx/Noi), Musa applies Noi's multi-AI integration concept to the broader field of search. It is not a browser, but a highly focused parallel information retrieval tool. With just one input, you can cast your query simultaneously across YouTube, Bilibili, Zhihu, Bing, and any custom websites or AI assistants you've added, allowing information to be presented in the most efficient and intuitive way.
 
-## ✨ 特性
+## ✨ Features
 
-* **并行搜索**: 一次输入，同时在多个预设的网站和 AI 助手中发起搜索或提问。
-* **动态网格布局**: 工作区会根据您启用的站点数量，自动适配为一、二、三、四宫格布局，始终保持最佳的视野。
-* **高度可定制的侧边栏**: 通过拖拽、编辑、添加文件夹，自由组织您的常用站点和 AI 助手。
-* **AI 助手集成**: 不仅仅是搜索！您可以直接向集成的 AI 服务（如 Gemini, ChatGPT）提问，Musa 会自动填充并提交您的问题。
-* **智能模板录制**: 想添加新的搜索引擎？只需在录制模式下进行一次搜索，Musa 就能自动学习其 URL 格式，实现轻松扩展。
-* **独立窗口模式**: 需要专注于某个特定任务？一键将任意面板“弹出”为独立的 macOS 窗口，主界面的网格会自动重排。
-* **个性化主题**: 内置多款精心设计的主题，从深邃的暗色到明亮的奶油色，总有一款适合您的心情。
-* **多语言支持**: 原生支持简体中文与英文界面，并可轻松切换。
+* **Parallel Search**: One input, simultaneous searches or queries across multiple preset websites and AI assistants.
+* **Dynamic Grid Layout**: The workspace automatically adapts to a one, two, three, or four-pane grid based on the number of enabled sites, always providing the optimal view.
+* **Highly Customizable Sidebar**: Freely organize your favorite sites and AI assistants with drag-and-drop, editing, and folder creation.
+* **AI Assistant Integration**: It's more than just search! You can directly ask questions to integrated AI services (like Gemini, ChatGPT), and Musa will automatically fill and submit your queries.
+* **Smart Template Recording**: Want to add a new search engine? Simply perform a search in recording mode, and Musa will automatically learn its URL format for easy expansion.
+* **Detached Window Mode**: Need to focus on a specific task? Pop out any panel into a separate macOS window with a single click, and the main grid will automatically reflow.
+* **Personalized Themes**: Comes with multiple built-in themes, from deep dark to creamy light, to match your mood.
+* **Multi-language Support**: Native support for both English and Simplified Chinese interfaces, easily switchable.
 
-## 🖥️ 演示
+## 🖥️ Demo
 
-**统一搜索与动态布局**
+**Unified Search & Dynamic Layout**
 [![image.png](https://i.postimg.cc/MGRLDcNM/image.png)](https://postimg.cc/7CHXPLxw)
-*输入“起风了”，YouTube 和 B站同时呈现结果。*
+*Enter a query, and results from YouTube and Bilibili appear simultaneously.*
 
-**AI 助手模式**
+**AI Assistant Mode**
 [![image.png](https://i.postimg.cc/Mpz4DKxd/image.png)](https://postimg.cc/3dbnrhkv)
-*向多个 AI 同时提问，高效获取创意与答案。*
+*Ask multiple AIs at the same time to efficiently get creative ideas and answers.*
 
-**个性化定制**
+**Personalization**
 [![2.png](https://i.postimg.cc/zBTS6KFW/2.png)](https://postimg.cc/MMKQjc4K)
-*流畅地切换主题，并将某个面板弹出为独立窗口。*
+*Smoothly switch themes and pop out any panel into a separate window.*
 
-## 🚀 安装
+## 🚀 Installation
 
-1.  前往 **Releases** 页面下载最新的 `.dmg` 文件。
-2.  打开 `.dmg` 文件。
-3.  将 **Musa.app** 图标拖拽到“应用程序”文件夹替身上。
-4.  完成！您现在可以从“启动台”或“应用程序”文件夹中启动 Musa。
+1.  Go to the **Releases** page to download the latest `.dmg` file.
+2.  Open the `.dmg` file.
+3.  Drag the **Musa.app** icon to the Applications folder alias.
+4.  Done! You can now launch Musa from your Launchpad or Applications folder.
 
-## 最后
+## Finally
 
-若Musa应用为你带来了帮助，欢迎将它分享给更多有需要的人；你也可以通过微信扫码的方式进行打赏支持哦～
-若在使用过程中遇到问题，或想聊聊 Musa，可关注公众号「赛博小白」，发送 “musa” 即可进群参与讨论
-[![Wechat-IMG498.png](https://i.postimg.cc/5y0Twfz6/Wechat-IMG498.png)](https://postimg.cc/Hcq6mDBg)
-[![Wechat-IMG499.jpg](https://i.postimg.cc/d1TcdzGD/Wechat-IMG499.jpg)](https://postimg.cc/5Y1rWK7M)
+If Musa has been helpful to you, feel free to share it with others who might need it. 
