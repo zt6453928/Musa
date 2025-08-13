@@ -50,7 +50,7 @@ Inspired by [lencx/Noi](https://github.com/lencx/Noi), Musa applies Noi's multi-
 
 ## 🚀 Installation
 
-1.  Go to the **Releases** page to download the latest `.dmg` file.
+1.  Go to the [**Releases**](https://github.com/zt6453928/Musa/releases) page to download the latest .dmg file.
 2.  Open the `.dmg` file.
 3.  Drag the **Musa.app** icon to the Applications folder alias.
 4.  Done! You can now launch Musa from your Launchpad or Applications folder.
